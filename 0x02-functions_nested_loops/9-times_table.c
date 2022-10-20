@@ -17,7 +17,7 @@ prd = num * mul;
 if (prd <= 9)
 _putchar(' ');
 else
-_putchar((prd / 10) + '0')
+_putchar((prd / 10) + '0');
 _putchar((prd % 10) + '0');
 }
 _putchar('\n');
