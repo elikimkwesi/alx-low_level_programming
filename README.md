@@ -1,1 +1,1 @@
-My first C programme
+day 2 programming in c
